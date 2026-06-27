@@ -10,8 +10,8 @@
 (function () {
   'use strict';
 
-  const newLastName = 'CHENG';
-  const newFirstName = 'KEWEI';
+  const newLastName = 'XXXX';
+  const newFirstName = 'XXXX';
 
   function replaceName() {
     const nameEl = document.querySelector('.my-ticket-info__name');
